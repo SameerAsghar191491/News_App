@@ -20,6 +20,11 @@ Learn API handling, models, and Provider state management
 
 📸 Screenshot
 
+ <p align="start">
+    <img src="assets/project_images/HomeScreen.jpg" width="220"/>
+    <img src="assets/project_images/CategoriesScreen.jpg" width="220"/>
+    <img src="assets/project_images/DetailsScreen.jpg" width="220"/>
+ </p>
 
 ---
 
@@ -29,7 +34,7 @@ This project was created for learning purposes.
 
 All code is manually written with full understanding of API integration and models.
 
-Future plans: add categories, search functionality, offline mode, and improved UI.
+Future plans: search functionality, offline mode, and improved UI.
 
 ---
 
