@@ -220,7 +220,7 @@ class _newsHeadlinesScreenState extends State<newsHeadlinesScreen> {
                                                       .spaceBetween,
                                               children: [
                                                 Container(
-                                                  color: Colors.amber,
+                                                  // color: Colors.amber,
                                                   width: 150,
                                                   child: Text(
                                                     author,
