@@ -1,4 +1,4 @@
-Flutter News App
+**News App**
 
 A simple and clean news application built with Flutter. This project focuses on understanding API integration, JSON parsing, and state management using Provider.
 
