@@ -25,6 +25,22 @@ A simple and clean news application built with Flutter. This project focuses on 
 
 ---
 
+## 🛠️ Tech Stack
+
+📱 Flutter – Cross-platform framework for building the UI
+
+🎯 Dart – Programming language used for app development
+
+🌐 REST API – Fetching real-time news data
+
+🔄 Provider – State management solution
+
+📦 HTTP Package – Handling API requests
+
+🧩 MVC Architecture – Separation of UI, logic, and data models
+
+🗂️ JSON Parsing – Converting API responses into usable models
+
 ## 📌 Notes
 
 This project was created for learning purposes.
@@ -32,7 +48,6 @@ This project was created for learning purposes.
 All code is manually written with full understanding of API integration and models.
 
 Future plans: search functionality, offline mode, and improved UI.
-
 
 ## 🧑‍💻 Author
 
