@@ -1,8 +1,8 @@
-📰 News App
+# 📰 News App
 
 A simple and clean news application built with Flutter. This project focuses on understanding API integration, JSON parsing, and state management using Provider.
 
-✅ Features
+## ✅ Features
 
 🗞️ Fetch latest news from an online API
 
@@ -16,7 +16,7 @@ A simple and clean news application built with Flutter. This project focuses on 
 
 ---
 
-📸 Screenshot
+## 📸 Screenshot
 
 <p align="start"> <img src="assets/project_images/HomeScreen.jpg" width="220"/> 
  <img src="assets/project_images/CategoriesScreen.jpg" width="220"/> 
@@ -25,7 +25,7 @@ A simple and clean news application built with Flutter. This project focuses on 
 
 ---
 
-📌 Notes
+## 📌 Notes
 
 This project was created for learning purposes.
 
@@ -34,6 +34,6 @@ All code is manually written with full understanding of API integration and mode
 Future plans: search functionality, offline mode, and improved UI.
 
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 
 Mirza Sameer Asghar
